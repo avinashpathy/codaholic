@@ -55,7 +55,7 @@ params:
   socialIcons:
     - name: "rss"
       url: "https://codaholic.com/index.xml"
-    - name: twitter
+    - name: x
       url: https://twitter.com/codaholichq
     - name: youtube
       url: http://youtube.com/@codaholichq
